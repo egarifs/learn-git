@@ -1,5 +1,3 @@
 # learn-git
 
-git push -u origin main
-
-learning to use git command
+This repo was used to learn git from amigoscode
